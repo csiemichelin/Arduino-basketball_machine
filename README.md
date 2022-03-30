@@ -14,7 +14,8 @@
 ## 製作過程
 &emsp;在我們討論後我們決定了此專題，我們先在網路上找相關電路以及程 式資料統整後，開始購買需要的零件組，過程中遇到許多難題所以我們查詢網路上的一些範例，我們開始思考怎麼去製作籃球得分器的電路，我們有去問別組感應裝置方面的問題，經過多次反覆的查證與電路測試，測試完成就開始展開籃球得分器的電路串接與製作；在串接過程中，發現很多錯誤的地方，我們也花很多天去找到BUG去修改她，我們才能夠依照進度來進行此專題。為了防止 零件燒壞或者遺失，我們都有多買幾份以防萬一，如果發現有問題的零件 我們也可以馬上進行更換。
 ## 專題製作流程圖
-&emsp;&emsp;<img src="https://github.com/csiemichelin/Implementation-of-a-Lexical-Analyzer/blob/main/flex.PNG" width="500" height="700">
+&emsp;  
+&emsp;&emsp;<img src="https://github.com/csiemichelin/Arduino-make-a-basketball-machine/blob/main/flow%20chart.png" width="500" height="700">
 ## 製作預期成效
 ## 成果展示
 ## 玩法
