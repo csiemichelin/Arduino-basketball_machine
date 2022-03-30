@@ -25,4 +25,8 @@
 &emsp;(五) 按下開關後先倒數計時三秒後，分數跳回零判斷是否進入下個關卡  
 &emsp;(六) 希望將籃球得分器能變成各個家庭中的小遊戲機。  
 ## 成果展示
+&emsp;   
+&emsp;&emsp;<img src="https://github.com/csiemichelin/Arduino-make-a-basketball-machine/blob/main/basketball_mach.jpg" width="300" height="450">
 ## 玩法
+&emsp;遊戲開始時，按下開關，時間從四十秒開始倒數，當投進籃框時，且空心則得到三分;如果是打框進求的話，則只得到兩分。兩分球LED會兩綠燈，三分球LED會兩藍燈，且蜂鳴器會跟著叫，時機為零秒時，分數有達到三十分的話，則進行第二關，第二關時間變為三十秒，如果最後分數有達70分則進入第三關，第三關則為二十秒，
+有創一個記分板會記錄歷次遊玩的最高分。
